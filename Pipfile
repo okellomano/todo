@@ -10,6 +10,9 @@ markdown = "*"
 django-filter = "*"
 firebase-admin = "*"
 django-environ = "*"
+django-cors-headers = "*"
+whitenoise = "*"
+gunicorn = "*"
 
 [dev-packages]
 
